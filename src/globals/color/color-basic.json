@@ -28,6 +28,10 @@
     "new": {
       "value": "#731e90",
       "type": "color"
+    },
+    "newonw": {
+      "value": "#df0707",
+      "type": "color"
     }
   },
   "$themes": [],
